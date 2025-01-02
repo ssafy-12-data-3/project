@@ -20,7 +20,11 @@ git clone https://github.com/ssafy-12-data-3/project.git
 프로젝트 실행에 필요한 환경 변수를 저장학 위해 아래 경로에 .env 파일을 생성
 
 백엔드 환경 설정: src/backend/.env
+
 프론트엔드 환경 설정: src/frontend/.env.development
+
+
+
 백엔드 (src/backend/.env):
 
 OPENAI_API_KEY= {https://platform.openai.com/api-keys 사이트에서 발급받은 API key} 
