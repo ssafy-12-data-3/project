@@ -13,7 +13,7 @@
 ## 배포된 링크
 QA 챗봇 서비스 링크  
 
-## 로컬 실행 방법
+# 로컬 실행 방법
 ## 1. 레포지토리 클론
 git clone https://github.com/ssafy-12-data-3/project.git
 ## 2. 필수 환경 설정 파일 생성
