@@ -23,10 +23,14 @@ git clone https://github.com/ssafy-12-data-3/project.git
 프론트엔드 환경 설정: src/frontend/.env.development
 백엔드 (src/backend/.env):
 
-OPENAI_API_KEY= {https://platform.openai.com/api-keys 사이트에서 발급받은 API key}
-PINECONE_API_KEY= {https://www.pinecone.io/ 사이트에서 발급받은 API key}
+OPENAI_API_KEY= {https://platform.openai.com/api-keys 사이트에서 발급받은 API key} 
+
+PINECONE_API_KEY= {https://www.pinecone.io/ 사이트에서 발급받은 API key} 
+
 ASSISTANT_BOT_ID= {https://platform.openai.com/playground/assistants 사이트에서 학습시킨 Assistants의 id}
+
 UPSTAGE_API_KEY= {https://she11.tistory.com/252 사이트 참고해서 받은 API key}
+
 프로트앤드 (src/frontend/.env.development):
 
 API_ENDPOINT=http://localhost:8000
