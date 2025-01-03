@@ -12,8 +12,7 @@
 4. 챗봇이 질문을 분석하여 질문에 맞는 답변을 QA 데이터셋을 바탕으로 실시간으로 응답을 제공합니다
 
 ## 배포된 링크
-[QA 챗봇 서비스 링크](https://main.d3uk3ibomzwwiv.amplifyapp.com/)  
-
+[QA 챗봇 서비스 링크](https://d10ek5tvv5syc7.cloudfront.net/)
 ## 로컬 실행 방법
 ### 1. 레포지토리 클론
 ```bash
