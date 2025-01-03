@@ -12,6 +12,7 @@
 
 ## 배포된 링크
 QA 챗봇 서비스 링크  
+https://d10ek5tvv5syc7.cloudfront.net/
 
 # 로컬 실행 방법
 ## 1. 레포지토리 클론
